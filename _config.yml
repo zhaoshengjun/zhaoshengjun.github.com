@@ -3,7 +3,7 @@ pygments: true
 permalink: /:title
 
 url:
-baseurl:zhaoshengjun.github.io
+baseurl: zhaoshengjun.github.io
 
 redcarpet:
   extensions: [strikethrough, tables]

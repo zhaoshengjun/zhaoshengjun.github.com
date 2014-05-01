@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Nothing yet :(
+I am learning everyday to be a better person.

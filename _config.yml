@@ -3,18 +3,7 @@ pygments: true
 permalink: /:title
 
 url:
-baseurl:
-# Themes are encouraged to use these universal variables
-# so be sure to set them if your theme uses them.
-#
-title : Evolving Everyday
-tagline: Site Tagline
-author :
-  name : Sam Zhao
-  email : zhao.shengjun@gmail.com
-  github : zhaoshengjun
-  twitter : username
-  feedburner : feedname
+baseurl:zhaoshengjun.github.io
 
 redcarpet:
   extensions: [strikethrough, tables]

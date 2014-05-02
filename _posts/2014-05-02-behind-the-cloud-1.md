@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Behind the Cloud - 1
+tags:[behind the cloud, salesforce, siebel, oracle]
 ---
 今天在看《Behind the Cloud》，讲的是Salesforce是如何一步步走向成功的经历，基本上算是Salesforce的创始人Marc的自传。
 
